@@ -20,6 +20,8 @@ pubspec.lock
 .DS_Store
 .Thumbs.db
 
+
+
 # Arquivos de configuração pessoal
 config.yaml
 
