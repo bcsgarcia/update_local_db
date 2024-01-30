@@ -1,0 +1,28 @@
+# Arquivos e diretórios relacionados ao Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+# Remova a linha abaixo se o arquivo 'pubspec.lock' não deve ser ignorado
+pubspec.lock
+
+# Arquivos de log
+*.log
+
+# Diretórios e arquivos de IDE específicos
+# Descomente as linhas abaixo de acordo com a IDE que você usa
+#.idea/
+#.vscode/
+#*.iml
+
+# Diretórios e arquivos de sistema operacional
+.DS_Store
+.Thumbs.db
+
+# Arquivos de configuração pessoal
+config.yaml
+
+# Outros arquivos e diretórios a serem ignorados
+# Adicione quaisquer outros arquivos/diretórios que você deseja ignorar
+.env
